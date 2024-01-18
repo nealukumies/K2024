@@ -1,3 +1,5 @@
+import math
+
 #Ohjelma, joka kysyy ympyrän säteen ja tulostaa sen pinta-alan
 
 print("Lasketaanpa ympyrän säde")

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Moduuli2/2.1nimikysely.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli2/2.2circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli1/tervetuloa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli1/tervetuloa.py" afterDir="false" />
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="2 moduulin viimeinen tehtävä vielä viimeisteltävä">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli2/2.2circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli2/2.2circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli2/2.6lukkokoodi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli2/2.6lukkokoodi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Moduuli 1" beforeDir="false" afterPath="$PROJECT_DIR$/../Moduuli 1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -34,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2.6lukkokoodi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -60,11 +64,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705573457015</updated>
-      <workItem from="1705573468700" duration="328000" />
+      <workItem from="1705573468700" duration="1078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 moduulin viimeinen tehtävä vielä viimeisteltävä" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 moduulin viimeinen tehtävä vielä viimeisteltävä" />
   </component>
 </project>
