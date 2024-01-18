@@ -2,8 +2,7 @@
 # leivisköinä, nauloina ja luoteina. Ohjelma muuntaa syötteen täysiksi kilogrammoiksi
 # ja grammoiksi sekä ilmoittaa tuloksen käyttäjälle.
 
-print("Keskiajalla massa ilmoitettiin leivisköinä, nauloina ja luoteina")
-print("Ilmoita massa keskiaikoisten mittojen mukaan niin ilmoitan massan nykymittojen mukaan")
+print("Ilmoita massa keskiaikoisten mittojen mukaan niin saat massan nykymittojen mukaan")
 leiviskat=float(input("Anna leiviskät: "))
 naulat=float(input("Anna naulat: "))
 luodit=float(input("Anna luodit: "))

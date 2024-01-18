@@ -1,4 +1,6 @@
-#Kirjoita ohjelma, joka kysyy kolme kokonaislukua. Ohjelma tulostaa lukujen summan, tulon ja keskiarvon
+#Kirjoita ohjelma, joka kysyy kolme kokonaislukua.
+#Ohjelma tulostaa lukujen summan, tulon ja keskiarvon.
+
 print("Leikitäänpä sitten vähän numeroilla :)")
 print("Seuraavaksi pyydän kolmea kokonaislukua")
 number_a=int(input("Kirjoita ensimmäinen luku tähän: "))
