@@ -13,10 +13,10 @@ while True:
         break
     try:
         num=float(number)
-        if first_number:
+        if first_number is True:
             smallest=num
             biggest=num
-            first_number
+            first_number=False
         else:
             if num<smallest:
                 smallest=num

@@ -4,5 +4,5 @@
 inches=float(input("Syötä tuumat: "))
 while inches>0:
     cms=inches*2.54
-    print(f"Syötit {inches} tuumaa, joka on {cms} senttimetriä.")
+    print(f"Syötit {inches} tuumaa, joka on {cms:.2f} senttimetriä.")
     inches=float(input("Syötä tuumat: "))

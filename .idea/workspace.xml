@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="moduuli 4.1 ja 4.2">
-      <change afterPath="$PROJECT_DIR$/Moduuli4/4.4arpapeli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli4/4.5salasana.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Moduuli4/4.6pii.py" afterDir="false" />
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="moduuli 4.5 asti">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Moduuli4/4.2tuumat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.2tuumat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Moduuli4/4.3luvut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.3luvut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli4/4.6pii.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.6pii.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,9 @@
     "Python.4.1while.executor": "Run",
     "Python.4.2tuumat.executor": "Run",
     "Python.4.3luvut.executor": "Run",
+    "Python.4.4arpapeli.executor": "Run",
     "Python.4.5salasana.executor": "Run",
+    "Python.4.6pii.executor": "Run",
     "Python.arpapeli.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,7 +87,7 @@
       <workItem from="1706029973322" duration="87000" />
       <workItem from="1706079440366" duration="2073000" />
       <workItem from="1706090620556" duration="4758000" />
-      <workItem from="1706165720237" duration="1340000" />
+      <workItem from="1706165720237" duration="6109000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -103,7 +103,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1706030007496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="moduuli 4.5 asti">
+      <option name="closed" value="true" />
+      <created>1706167171642</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1706167171642</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +133,8 @@
     <MESSAGE value="viimeistelty" />
     <MESSAGE value="moduuli3" />
     <MESSAGE value="moduuli 4.1 ja 4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="moduuli 4.1 ja 4.2" />
+    <MESSAGE value="moduuli 4.5 asti" />
+    <option name="LAST_COMMIT_MESSAGE" value="moduuli 4.5 asti" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -141,6 +149,10 @@
           <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Moduuli4/4.6pii.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -151,14 +163,16 @@
     <SUITE FILE_PATH="coverage/K2024$arpapeli.coverage" NAME="arpapeli Coverage Results" MODIFIED="1706099189539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$3_3hemoglobiini.coverage" NAME="3.3hemoglobiini Coverage Results" MODIFIED="1706028881779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/K2024$2_4kolmelukua.coverage" NAME="2.4kolmelukua Coverage Results" MODIFIED="1705575010594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/K2024$4_2tuumat.coverage" NAME="4.2tuumat Coverage Results" MODIFIED="1706079950639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$4_1while.coverage" NAME="4.1while Coverage Results" MODIFIED="1706029317730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$4_5salasana.coverage" NAME="4.5salasana Coverage Results" MODIFIED="1706166595225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$4_2tuumat.coverage" NAME="4.2tuumat Coverage Results" MODIFIED="1706182024193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$4_1while.coverage" NAME="4.1while Coverage Results" MODIFIED="1706181889373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182379293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$4_5salasana.coverage" NAME="4.5salasana Coverage Results" MODIFIED="1706182418496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$2_6lukkokoodi.coverage" NAME="2.6lukkokoodi Coverage Results" MODIFIED="1705575238257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/K2024$4_3luvut.coverage" NAME="4.3luvut Coverage Results" MODIFIED="1706098358606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$4_3luvut.coverage" NAME="4.3luvut Coverage Results" MODIFIED="1706182197906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$2_2circle.coverage" NAME="2.2circle Coverage Results" MODIFIED="1705574948859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/K2024$3_1kuha.coverage" NAME="3.1kuha Coverage Results" MODIFIED="1706028733071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
+    <SUITE FILE_PATH="coverage/K2024$3_1kuha.coverage" NAME="3.1kuha Coverage Results" MODIFIED="1706181864580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/K2024$2_1nimikysely.coverage" NAME="2.1nimikysely Coverage Results" MODIFIED="1705574940843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/K2024$3_2hyttiluokka.coverage" NAME="3.2hyttiluokka Coverage Results" MODIFIED="1706028767272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
+    <SUITE FILE_PATH="coverage/K2024$4_4arpapeli.coverage" NAME="4.4arpapeli Coverage Results" MODIFIED="1706182224877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$3_2hyttiluokka.coverage" NAME="3.2hyttiluokka Coverage Results" MODIFIED="1706181877879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
   </component>
 </project>
