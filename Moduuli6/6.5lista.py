@@ -5,13 +5,6 @@
 # kutsut funktiota ja tulostat sen jälkeen sekä alkuperäisen että karsitun listan.
 
 import random
-
-amount=int(input("Syötä tähän kuinka monta numeroa haluat syöttää listalle: "))
-numbers=[]
-def list(numbers):
-    for i in range(amount):
-        numbers.append(random.randint(1,10))
-    return numbers
 def even(values):
     new_list=[]
     for n in values:
@@ -19,7 +12,13 @@ def even(values):
             new_list.append(n)
     return new_list
 
-original_list=list(numbers)
-even_list=even(original_list)
-print(f"Alkuperäinen lista on {original_list}.")
-print(f"Karsittu lista on {even_list}.")
+amount=int(input("Syötä tähän kuinka monta numeroa haluat syöttää listalle: "))
+
+numbers=[]
+for i in range(amount):
+    numbers.append(random.randint(1, 100))
+    #Range vain esimerkkinä alkuperäisen listan luontia varten
+
+
+print(f"Alkuperäinen lista on {numbers}.")
+print(f"Karsittu lista on {even(numbers)}.")
