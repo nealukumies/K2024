@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="moduuli 4.5 asti">
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="moduuli 4.6 korjattu viimeinen print">
+      <change afterPath="$PROJECT_DIR$/Moduuli5/5.1arpakuutio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli5/5.2viisisuurinta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli5/5.3alkuluku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli5/5.4kaupungit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kokeilut/.idea/Kokeilut.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.2tuumat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.2tuumat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.3luvut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.3luvut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.6pii.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/4.6pii.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +55,14 @@
     "Python.4.4arpapeli.executor": "Run",
     "Python.4.5salasana.executor": "Run",
     "Python.4.6pii.executor": "Run",
+    "Python.5.1arpakuutio.executor": "Run",
+    "Python.5.2viisisuurinta.executor": "Run",
+    "Python.5.3alkuluku.executor": "Run",
+    "Python.5.4kaupungit.executor": "Run",
     "Python.arpapeli.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,7 +94,14 @@
       <workItem from="1706029973322" duration="87000" />
       <workItem from="1706079440366" duration="2073000" />
       <workItem from="1706090620556" duration="4758000" />
-      <workItem from="1706165720237" duration="6109000" />
+      <workItem from="1706165720237" duration="6577000" />
+      <workItem from="1706255764014" duration="27000" />
+      <workItem from="1706295375542" duration="172000" />
+      <workItem from="1706349471535" duration="13000" />
+      <workItem from="1706349710801" duration="82000" />
+      <workItem from="1706528304626" duration="1290000" />
+      <workItem from="1706551042687" duration="464000" />
+      <workItem from="1706597321285" duration="4925000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -110,7 +124,21 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1706167171642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="moduuli 4 viimeistelty">
+      <option name="closed" value="true" />
+      <created>1706182447894</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1706182447894</updated>
+    </task>
+    <task id="LOCAL−00005" summary="moduuli 4.6 korjattu viimeinen print">
+      <option name="closed" value="true" />
+      <created>1706182631192</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1706182631192</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +162,9 @@
     <MESSAGE value="moduuli3" />
     <MESSAGE value="moduuli 4.1 ja 4.2" />
     <MESSAGE value="moduuli 4.5 asti" />
-    <option name="LAST_COMMIT_MESSAGE" value="moduuli 4.5 asti" />
+    <MESSAGE value="moduuli 4 viimeistelty" />
+    <MESSAGE value="moduuli 4.6 korjattu viimeinen print" />
+    <option name="LAST_COMMIT_MESSAGE" value="moduuli 4.6 korjattu viimeinen print" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -153,6 +183,11 @@
           <url>file://$PROJECT_DIR$/Moduuli4/4.6pii.py</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Moduuli5/5.2viisisuurinta.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -165,9 +200,13 @@
     <SUITE FILE_PATH="coverage/K2024$2_4kolmelukua.coverage" NAME="2.4kolmelukua Coverage Results" MODIFIED="1705575010594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$4_2tuumat.coverage" NAME="4.2tuumat Coverage Results" MODIFIED="1706182024193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$4_1while.coverage" NAME="4.1while Coverage Results" MODIFIED="1706181889373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182379293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$5_3alkuluku.coverage" NAME="5.3alkuluku Coverage Results" MODIFIED="1706606952732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182608082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$4_5salasana.coverage" NAME="4.5salasana Coverage Results" MODIFIED="1706182418496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$2_6lukkokoodi.coverage" NAME="2.6lukkokoodi Coverage Results" MODIFIED="1705575238257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$5_4kaupungit.coverage" NAME="5.4kaupungit Coverage Results" MODIFIED="1706607192893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$5_1arpakuutio.coverage" NAME="5.1arpakuutio Coverage Results" MODIFIED="1706551360288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$5_2viisisuurinta.coverage" NAME="5.2viisisuurinta Coverage Results" MODIFIED="1706600703985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/K2024$4_3luvut.coverage" NAME="4.3luvut Coverage Results" MODIFIED="1706182197906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$2_2circle.coverage" NAME="2.2circle Coverage Results" MODIFIED="1705574948859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$3_1kuha.coverage" NAME="3.1kuha Coverage Results" MODIFIED="1706181864580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
