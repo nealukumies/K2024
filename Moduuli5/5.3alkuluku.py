@@ -9,7 +9,7 @@ if luku==1:
     print("Luku 1 ei ole alkuluku")
 
 elif luku>1:
-    for i in range(2, int(luku/2)+1): #Testaa onko luku jaollinen range 2, luku/2
+    for i in range(2, int(luku/2)+1):
         if (luku%i)==0:
             print("Luku ei ole alkuluku")
             break #riittää kun ehto täyttyy kerran, ei tarvitse tsekata koko rangea
