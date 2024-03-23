@@ -18,6 +18,7 @@ class Book(Publication):
 
     def print_properties(self):
         print(f"Kirjailija: {self.author}, kirja: {self.name}, sivumäärä: {self.pagecount}")
+
 class Magazine(Publication):
     def __init__(self, name, editor):
         super().__init__(name)
