@@ -7,3 +7,35 @@
 # hissiä yhden kerroksen ylös- tai alaspäin ja ilmoittavat, missä kerroksessa
 # hissi sen jälkeen on. Testaa luokkaa siten, että teet pääohjelmassa hissin ja
 # käsket sen siirtymään haluamaasi kerrokseen ja sen jälkeen takaisin alimpaan kerrokseen.
+
+class Elevator:
+    def __init__(self, lowest, highest):
+        self.lowest = lowest
+        self.highest = highest
+        self.floor = lowest
+
+    def floor_up(self):
+        self.floor += 1
+        print(f"Elevator is now on floor {self.floor}")
+
+    def floor_down(self):
+        self.floor -= 1
+        print(f"Elevator is now on floor {self.floor}")
+    def transfer_to_floor(self, number):
+        if number > self.floor:
+            amount = number - self.floor
+            for i in range(amount):
+                self.floor_up()
+        elif number < self.floor:
+            amount = self.floor - number
+            for i in range(amount):
+                self.floor_down()
+        else:
+            print(f"Elevator is on floor {number}")
+        print("You can step out of elevator.")
+
+
+elevator1 = Elevator(1, 10)
+elevator1.transfer_to_floor(10)
+print(30*"-")
+elevator1.transfer_to_floor(1)
