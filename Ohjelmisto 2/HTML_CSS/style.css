@@ -1,0 +1,175 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url("Ubuntu-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("Roboto-Regular.ttf") format("truetype");
+}
+
+html {
+    font-family: Ubuntu, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1170%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(0%2c 151%2c 178%2c 1)'%3e%3c/rect%3e%3cpath d='M1488 560L0 560 L0 322.36Q47.19 249.55%2c 120 296.73Q198.23 254.96%2c 240 333.19Q269.13 290.32%2c 312 319.45Q360.39 295.84%2c 384 344.22Q397 285.23%2c 456 298.23Q499.34 269.57%2c 528 312.91Q570.4 283.31%2c 600 325.71Q647.63 301.34%2c 672 348.97Q690.63 295.61%2c 744 314.24Q811.16 261.4%2c 864 328.57Q907.49 252.06%2c 984 295.55Q1067.21 258.76%2c 1104 341.97Q1127.21 293.19%2c 1176 316.4Q1260.1 280.5%2c 1296 364.59Q1342.6 291.19%2c 1416 337.79Q1431.15 280.94%2c 1488 296.09z' fill='rgba(174%2c 213%2c 224%2c 1)'%3e%3c/path%3e%3cpath d='M1488 560L0 560 L0 357.59Q62.59 300.18%2c 120 362.77Q172.3 343.07%2c 192 395.37Q240.97 324.34%2c 312 373.31Q337.26 326.57%2c 384 351.84Q477.77 325.61%2c 504 419.38Q543.91 339.29%2c 624 379.2Q669.46 304.65%2c 744 350.11Q804.32 338.43%2c 816 398.75Q858.13 368.88%2c 888 411Q907.39 358.39%2c 960 377.78Q1001.35 347.13%2c 1032 388.48Q1076.92 313.4%2c 1152 358.33Q1196.94 331.27%2c 1224 376.21Q1290.78 322.99%2c 1344 389.76Q1385.13 358.89%2c 1416 400.03Q1432.36 344.39%2c 1488 360.75z' fill='rgba(132%2c 193%2c 209%2c 1)'%3e%3c/path%3e%3cpath d='M1512 560L0 560 L0 468.63Q36.99 433.62%2c 72 470.61Q91.38 417.99%2c 144 437.36Q192.69 366.05%2c 264 414.74Q317.81 396.56%2c 336 450.37Q361.63 404%2c 408 429.62Q487.97 389.59%2c 528 469.55Q562.09 383.64%2c 648 417.73Q692.61 390.34%2c 720 434.94Q738.29 381.23%2c 792 399.51Q835.05 370.56%2c 864 413.6Q948.96 378.56%2c 984 463.53Q1027.77 387.29%2c 1104 431.06Q1132.41 387.47%2c 1176 415.88Q1239.78 407.66%2c 1248 471.44Q1289.42 392.87%2c 1368 434.29Q1388.44 382.73%2c 1440 403.17Q1509.34 400.5%2c 1512 469.84z' fill='rgba(215%2c 234%2c 240%2c 1)'%3e%3c/path%3e%3cpath d='M1560 560L0 560 L0 455.02Q70.81 405.83%2c 120 476.65Q165.04 449.69%2c 192 494.72Q239.28 470%2c 264 517.28Q278.82 460.1%2c 336 474.91Q403.44 422.35%2c 456 489.79Q500.86 462.65%2c 528 507.51Q545.5 453%2c 600 470.5Q627.94 426.44%2c 672 454.38Q752.21 414.59%2c 792 494.79Q820.85 451.63%2c 864 480.48Q890.2 434.68%2c 936 460.88Q1023.31 428.19%2c 1056 515.49Q1097.12 436.61%2c 1176 477.72Q1206.72 436.45%2c 1248 467.17Q1331.18 430.36%2c 1368 513.54Q1386.08 459.62%2c 1440 477.7Q1510.07 427.77%2c 1560 497.84z' fill='rgba(109%2c 182%2c 201%2c 1)'%3e%3c/path%3e%3cpath d='M1560 560L0 560 L0 552.63Q65.58 498.21%2c 120 563.79Q143.9 515.69%2c 192 539.59Q221.5 497.09%2c 264 526.59Q348.72 491.31%2c 384 576.03Q408.09 528.12%2c 456 552.2Q498.26 474.46%2c 576 516.72Q667.04 487.76%2c 696 578.81Q706.44 517.25%2c 768 527.69Q820.55 460.24%2c 888 512.79Q965.06 469.85%2c 1008 546.9Q1051.53 518.42%2c 1080 561.95Q1124.27 534.22%2c 1152 578.49Q1160.51 515%2c 1224 523.5Q1252.23 479.74%2c 1296 507.97Q1346.97 486.94%2c 1368 537.91Q1411.13 509.04%2c 1440 552.17Q1480.37 472.54%2c 1560 512.91z' fill='rgba(0%2c 151%2c 178%2c 1)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1170'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+
+header {
+    display: flex;
+    width: 100%;
+
+}
+
+h1 {
+    width: 20%;
+    font-size: 1.5rem;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: #006F83;
+    color: #EBF5F7;
+    text-align: center;
+    line-height: 3rem;
+    margin: 0;
+    padding: 5px 25px;
+    border-radius: 3em;
+}
+
+header a {
+    text-decoration: none;
+    background-color: #006F83;
+    color: #EBF5F7;
+    display: block;
+    text-align: center;
+    line-height: 3rem;
+    margin-left: 5px;
+    padding: 5px 25px;
+    border-radius: 3em;
+}
+
+header a:hover {
+    background-color: #00B283;
+}
+
+nav {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+li a {
+    margin-right: 5px;
+}
+
+main {
+    width: 100%;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    flex-direction: column;
+}
+
+.logo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 15px;
+}
+
+h2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    border-radius: 3em;
+    background-color: #006F83;
+    padding: 20px;
+    color: #EBF5F7;
+    margin: 0;
+}
+
+section {
+    width: 100%;
+    background-color: #006F83;
+    padding: 20px;
+    color: #EBF5F7;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 3em;
+    font-family: Roboto, sans-serif;
+}
+
+.article_container {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    margin: 0;
+}
+
+article {
+    width: calc(100% / 3 - 10px);
+    margin: 5px;
+    align-content: center;
+    border: 1px #EBF5F7 solid;
+    border-radius: 3em;
+    flex-wrap: wrap;
+}
+
+
+figure {
+    margin: 1rem;
+    border: 1px #EBF5F7 solid;
+    border-radius: 3em;
+}
+
+figure img {
+    margin: 5px;
+    border-radius: 3em;
+}
+
+.contact_section {
+    width: 100%;
+    background-color: #006F83;
+    padding: 20px;
+    color: #EBF5F7;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 3em;
+    font-family: Roboto, sans-serif;
+}
+
+.contact_info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.map {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+

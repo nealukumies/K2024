@@ -4,45 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="Moduuli 9">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9/9.1_auto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9/9.2_kiihdyta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9/9.3_kulje.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9/9.4_autopeli.py" afterDir="false" />
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="Moduuli 11">
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/contact_lighthouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/contact_validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/contrast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/products_lighthouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/products_validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/screenshotpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/webpage_lighthouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Screenshotit/webpage_validation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/Ubuntu-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/keltainen_yksisarvinen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/logo_yksisarvinen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/roosa_yksisarvinen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/vihr_yksisarvinen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/HTML_CSS/webpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli1/tervetuloa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli1/tervetuloa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.1nimikysely.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.1nimikysely.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.2circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.2circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.3rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.3rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.4kolmelukua.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.4kolmelukua.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.5keskiaika.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.5keskiaika.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli2/2.6lukkokoodi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli2/2.6lukkokoodi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli3/3.1kuha.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli3/3.1kuha.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli3/3.2hyttiluokka.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli3/3.2hyttiluokka.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli3/3.3hemoglobiini.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli3/3.3hemoglobiini.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli3/3.4karkausvuosi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli3/3.4karkausvuosi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.1while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.1while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.2tuumat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.2tuumat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.3luvut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.3luvut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.4arpapeli.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.4arpapeli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.5salasana.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.5salasana.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli4/4.6pii.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli4/4.6pii.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/5.1arpakuutio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5/5.1arpakuutio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/5.2viisisuurinta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5/5.2viisisuurinta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/5.3alkuluku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5/5.3alkuluku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/5.4kaupungit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5/5.4kaupungit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.1noppa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.1noppa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.2nopantahkot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.2nopantahkot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.3gallonat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.3gallonat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.4kokonaisluku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.4kokonaisluku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.5lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.5lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli6/6.6pizza.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli6/6.6pizza.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli7/7.1vuodenaika.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli7/7.1vuodenaika.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli7/7.2nimet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli7/7.2nimet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli7/7.3lentoasema.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli7/7.3lentoasema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli8/8.1icaokoodi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli8/8.1icaokoodi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli8/8.2maakoodi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli8/8.2maakoodi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli8/8.3koordinaatit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 1/Moduuli8/8.3koordinaatit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,6 +55,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.10.1hissi.executor": "Run",
+    "Python.10.2talo.executor": "Run",
+    "Python.10.3palo.executor": "Run",
+    "Python.10.4autokilpailu.executor": "Run",
+    "Python.11.1luokkahierarkia.executor": "Run",
+    "Python.11.2autoaliluokka.executor": "Run",
     "Python.2.1nimikysely.executor": "Run",
     "Python.2.2circle.executor": "Run",
     "Python.2.3rectangle.executor": "Run",
@@ -109,10 +100,18 @@
     "Python.9.3_kulje.executor": "Run",
     "Python.9.4_autopeli.executor": "Run",
     "Python.arpapeli.executor": "Run",
+    "Python.kirja.executor": "Run",
+    "Python.koira.executor": "Run",
+    "Python.luokkaesimerkki.executor": "Run",
+    "Python.osa1.executor": "Run",
+    "Python.periytyminen.executor": "Run",
+    "Python.student.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/nealu/PycharmProjects/Ohjelmisto1/K2024/Ohjelmisto 2/HTML_CSS/Screenshotit",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,7 +122,16 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\Screenshotit" />
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS" />
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\IMG" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\Screenshotit" />
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS" />
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\IMG" />
+      <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\CSS" />
       <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 1" />
     </key>
   </component>
@@ -171,7 +179,22 @@
       <workItem from="1707735686723" duration="11000" />
       <workItem from="1710745252608" duration="611000" />
       <workItem from="1710831697951" duration="695000" />
-      <workItem from="1710844477912" duration="8267000" />
+      <workItem from="1710844477912" duration="8707000" />
+      <workItem from="1710917752402" duration="2322000" />
+      <workItem from="1711008836313" duration="2455000" />
+      <workItem from="1711015446493" duration="2181000" />
+      <workItem from="1711091706530" duration="6523000" />
+      <workItem from="1711102740701" duration="9650000" />
+      <workItem from="1711124658545" duration="1612000" />
+      <workItem from="1711126302254" duration="7353000" />
+      <workItem from="1711179795489" duration="2474000" />
+      <workItem from="1711194041892" duration="2030000" />
+      <workItem from="1711366964694" duration="11372000" />
+      <workItem from="1711469995356" duration="3671000" />
+      <workItem from="1711520242834" duration="18498000" />
+      <workItem from="1711550429092" duration="1755000" />
+      <workItem from="1711608707597" duration="1814000" />
+      <workItem from="1711619591438" duration="1591000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -257,7 +280,49 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1710856153343</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="Moduuli 9">
+      <option name="closed" value="true" />
+      <created>1710856334748</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1710856334748</updated>
+    </task>
+    <task id="LOCAL−00014" summary="Moduuli 9">
+      <option name="closed" value="true" />
+      <created>1710856479469</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1710856479469</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Matematiikka osa 1">
+      <option name="closed" value="true" />
+      <created>1711011413423</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1711011413423</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Moduuli 10">
+      <option name="closed" value="true" />
+      <created>1711181411199</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1711181411199</updated>
+    </task>
+    <task id="LOCAL−00017" summary="Moduuli 11">
+      <option name="closed" value="true" />
+      <created>1711195932225</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1711195932225</updated>
+    </task>
+    <task id="LOCAL−00018" summary="Moduuli 11">
+      <option name="closed" value="true" />
+      <created>1711196070451</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1711196070451</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +355,10 @@
     <MESSAGE value="Moduuli 7" />
     <MESSAGE value="Moduuli 8" />
     <MESSAGE value="Moduuli 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moduuli 9" />
+    <MESSAGE value="Matematiikka osa 1" />
+    <MESSAGE value="Moduuli 10" />
+    <MESSAGE value="Moduuli 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moduuli 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,42 +407,54 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/K2024$2_3rectangle.coverage" NAME="2.3rectangle Coverage Results" MODIFIED="1705575324328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$10_1hissi.coverage" NAME="10.1hissi Coverage Results" MODIFIED="1711181235462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
     <SUITE FILE_PATH="coverage/K2024$3_4karkausvuosi.coverage" NAME="3.4karkausvuosi Coverage Results" MODIFIED="1706028913747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
-    <SUITE FILE_PATH="coverage/K2024$3_3hemoglobiini.coverage" NAME="3.3hemoglobiini Coverage Results" MODIFIED="1706028881779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/K2024$4_2tuumat.coverage" NAME="4.2tuumat Coverage Results" MODIFIED="1706182024193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$osa1.coverage" NAME="osa1 Coverage Results" MODIFIED="1711011372324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka" />
+    <SUITE FILE_PATH="coverage/K2024$periytyminen.coverage" NAME="periytyminen Coverage Results" MODIFIED="1711112157284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
+    <SUITE FILE_PATH="coverage/K2024$10_3palo.coverage" NAME="10.3palo Coverage Results" MODIFIED="1711181365396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
+    <SUITE FILE_PATH="coverage/K2024$6_6pizza.coverage" NAME="6.6pizza Coverage Results" MODIFIED="1706697617174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/K2024$2_6lukkokoodi.coverage" NAME="2.6lukkokoodi Coverage Results" MODIFIED="1705575238257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$6_4kokonaisluku.coverage" NAME="6.4kokonaisluku Coverage Results" MODIFIED="1706641371591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/K2024$7_3lentoasema.coverage" NAME="7.3lentoasema Coverage Results" MODIFIED="1707135659660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli7" />
+    <SUITE FILE_PATH="coverage/K2024$2_1nimikysely.coverage" NAME="2.1nimikysely Coverage Results" MODIFIED="1705574940843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$6_2nopantahkot.coverage" NAME="6.2nopantahkot Coverage Results" MODIFIED="1706640819325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/K2024$6_5lista.coverage" NAME="6.5lista Coverage Results" MODIFIED="1706642246306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/K2024$student.coverage" NAME="student Coverage Results" MODIFIED="1711106057155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
+    <SUITE FILE_PATH="coverage/K2024$10_4autokilpailu.coverage" NAME="10.4autokilpailu Coverage Results" MODIFIED="1711181178047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
+    <SUITE FILE_PATH="coverage/K2024$arpapeli.coverage" NAME="arpapeli Coverage Results" MODIFIED="1706099189539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$2_4kolmelukua.coverage" NAME="2.4kolmelukua Coverage Results" MODIFIED="1705575010594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$8_3koordinaatit.coverage" NAME="8.3koordinaatit Coverage Results" MODIFIED="1707296738837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
+    <SUITE FILE_PATH="coverage/K2024$5_3alkuluku.coverage" NAME="5.3alkuluku Coverage Results" MODIFIED="1706606952732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182608082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$5_2viisisuurinta.coverage" NAME="5.2viisisuurinta Coverage Results" MODIFIED="1706640334789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$4_4arpapeli.coverage" NAME="4.4arpapeli Coverage Results" MODIFIED="1706182224877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/K2024$luokkaesimerkki.coverage" NAME="luokkaesimerkki Coverage Results" MODIFIED="1711096204130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
+    <SUITE FILE_PATH="coverage/K2024$3_3hemoglobiini.coverage" NAME="3.3hemoglobiini Coverage Results" MODIFIED="1706028881779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
+    <SUITE FILE_PATH="coverage/K2024$11_1luokkahierarkia.coverage" NAME="11.1luokkahierarkia Coverage Results" MODIFIED="1711194936639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli11" />
     <SUITE FILE_PATH="coverage/K2024$8_2maakoodi.coverage" NAME="8.2maakoodi Coverage Results" MODIFIED="1707296775704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/K2024$6_3gallonat.coverage" NAME="6.3gallonat Coverage Results" MODIFIED="1706640864499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$6_2toineennoppa.coverage" NAME="6.2toineennoppa Coverage Results" MODIFIED="1706609644739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$9_3_kulje.coverage" NAME="9.3_kulje Coverage Results" MODIFIED="1710855213675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9" />
-    <SUITE FILE_PATH="coverage/K2024$6_6pizza.coverage" NAME="6.6pizza Coverage Results" MODIFIED="1706697617174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$4_5salasana.coverage" NAME="4.5salasana Coverage Results" MODIFIED="1706182418496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$7_1vuodenaika.coverage" NAME="7.1vuodenaika Coverage Results" MODIFIED="1707289057379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli7" />
-    <SUITE FILE_PATH="coverage/K2024$2_6lukkokoodi.coverage" NAME="2.6lukkokoodi Coverage Results" MODIFIED="1705575238257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$5_1arpakuutio.coverage" NAME="5.1arpakuutio Coverage Results" MODIFIED="1706640218065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/K2024$4_3luvut.coverage" NAME="4.3luvut Coverage Results" MODIFIED="1706182197906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$2_2circle.coverage" NAME="2.2circle Coverage Results" MODIFIED="1705574948859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$3_1kuha.coverage" NAME="3.1kuha Coverage Results" MODIFIED="1706181864580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
-    <SUITE FILE_PATH="coverage/K2024$6_4kokonaisluku.coverage" NAME="6.4kokonaisluku Coverage Results" MODIFIED="1706641371591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
-    <SUITE FILE_PATH="coverage/K2024$7_3lentoasema.coverage" NAME="7.3lentoasema Coverage Results" MODIFIED="1707135659660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli7" />
-    <SUITE FILE_PATH="coverage/K2024$2_1nimikysely.coverage" NAME="2.1nimikysely Coverage Results" MODIFIED="1705574940843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$9_1_auto.coverage" NAME="9.1_auto Coverage Results" MODIFIED="1710847087896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9" />
     <SUITE FILE_PATH="coverage/K2024$7_2nimet.coverage" NAME="7.2nimet Coverage Results" MODIFIED="1707289072877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli7" />
-    <SUITE FILE_PATH="coverage/K2024$6_2nopantahkot.coverage" NAME="6.2nopantahkot Coverage Results" MODIFIED="1706640819325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
-    <SUITE FILE_PATH="coverage/K2024$6_5lista.coverage" NAME="6.5lista Coverage Results" MODIFIED="1706642246306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
-    <SUITE FILE_PATH="coverage/K2024$2_5keskiaika.coverage" NAME="2.5keskiaika Coverage Results" MODIFIED="1705575036548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$kirja.coverage" NAME="kirja Coverage Results" MODIFIED="1711099400975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
     <SUITE FILE_PATH="coverage/K2024$9_2_kiihdyta.coverage" NAME="9.2_kiihdyta Coverage Results" MODIFIED="1710855070628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9" />
-    <SUITE FILE_PATH="coverage/K2024$arpapeli.coverage" NAME="arpapeli Coverage Results" MODIFIED="1706099189539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$2_4kolmelukua.coverage" NAME="2.4kolmelukua Coverage Results" MODIFIED="1705575010594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/K2024$8_3koordinaatit.coverage" NAME="8.3koordinaatit Coverage Results" MODIFIED="1707296738837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
+    <SUITE FILE_PATH="coverage/K2024$2_5keskiaika.coverage" NAME="2.5keskiaika Coverage Results" MODIFIED="1705575036548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/K2024$11_2autoaliluokka.coverage" NAME="11.2autoaliluokka Coverage Results" MODIFIED="1711195874083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli11" />
+    <SUITE FILE_PATH="coverage/K2024$koira.coverage" NAME="koira Coverage Results" MODIFIED="1711106868758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
     <SUITE FILE_PATH="coverage/K2024$4_1while.coverage" NAME="4.1while Coverage Results" MODIFIED="1706181889373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$5_3alkuluku.coverage" NAME="5.3alkuluku Coverage Results" MODIFIED="1706606952732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
-    <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182608082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$8_1icaokoodi.coverage" NAME="8.1icaokoodi Coverage Results" MODIFIED="1707308374062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/K2024$5_4kaupungit.coverage" NAME="5.4kaupungit Coverage Results" MODIFIED="1706612640690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
-    <SUITE FILE_PATH="coverage/K2024$5_2viisisuurinta.coverage" NAME="5.2viisisuurinta Coverage Results" MODIFIED="1706640334789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
-    <SUITE FILE_PATH="coverage/K2024$9_4_autopeli.coverage" NAME="9.4_autopeli Coverage Results" MODIFIED="1710856029188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9" />
+    <SUITE FILE_PATH="coverage/K2024$9_4_autopeli.coverage" NAME="9.4_autopeli Coverage Results" MODIFIED="1711130233000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli9" />
+    <SUITE FILE_PATH="coverage/K2024$10_2talo.coverage" NAME="10.2talo Coverage Results" MODIFIED="1711181287885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
     <SUITE FILE_PATH="coverage/K2024$6_1noppa.coverage" NAME="6.1noppa Coverage Results" MODIFIED="1706641791873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
-    <SUITE FILE_PATH="coverage/K2024$4_4arpapeli.coverage" NAME="4.4arpapeli Coverage Results" MODIFIED="1706182224877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$3_2hyttiluokka.coverage" NAME="3.2hyttiluokka Coverage Results" MODIFIED="1706181877879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
   </component>
 </project>
