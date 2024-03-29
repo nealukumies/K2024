@@ -8,7 +8,7 @@
 import requests
 location = input("Enter location: ")
 
-request = "http://api.openweathermap.org/data/2.5/weather?q=" + location + "&APPID=6ca07de3db6e12aa62a7a78c23ac1241"
+request = "http://api.openweathermap.org/data/2.5/weather?q=" + location + "&APPID=INSERTAPIKEYHERE"
 
 try:
     response = requests.get(request)
