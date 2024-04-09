@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="Matematiikka osa3">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment10/probability.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment10/probability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment3/integers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment3/integers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment4/hogwarts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment4/hogwarts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment5/leapyear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment5/leapyear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment6/squareroot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment6/squareroot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment7/dice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment7/dice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment8/leapyear8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment8/leapyear8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment9/primenumber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment9/primenumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="JavaScript module 1">
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1/hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +208,7 @@
       <workItem from="1712295806576" duration="6425000" />
       <workItem from="1712307752942" duration="10762000" />
       <workItem from="1712641566578" duration="9707000" />
-      <workItem from="1712655330693" duration="4144000" />
+      <workItem from="1712655330693" duration="4451000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -395,7 +378,21 @@
       <option name="presentableId" value="LOCAL−00024" />
       <updated>1712230514591</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL−00025" summary="JavaScript module 1">
+      <option name="closed" value="true" />
+      <created>1712659914786</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1712659914786</updated>
+    </task>
+    <task id="LOCAL−00026" summary="JavaScript module 1">
+      <option name="closed" value="true" />
+      <created>1712659984168</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1712659984168</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +432,8 @@
     <MESSAGE value="Moduuli 12" />
     <MESSAGE value="Moduuli 13" />
     <MESSAGE value="Matematiikka osa3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matematiikka osa3" />
+    <MESSAGE value="JavaScript module 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript module 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
