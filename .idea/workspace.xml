@@ -4,9 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="Moduuli 13">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3/osa3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3/osa3.2ja3.py" afterDir="false" />
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="Matematiikka osa3">
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment10/probability.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment10/probability.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment1_2/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment3/integers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment3/integers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment4/hogwarts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment4/hogwarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment5/leapyear.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment5/leapyear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment6/squareroot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment6/squareroot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment7/dice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment7/dice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment8/leapyear8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment8/leapyear8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment9/primenumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment9/primenumber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +34,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -47,84 +64,85 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.10.1hissi.executor": "Run",
-    "Python.10.2talo.executor": "Run",
-    "Python.10.3palo.executor": "Run",
-    "Python.10.4autokilpailu.executor": "Run",
-    "Python.11.1luokkahierarkia.executor": "Run",
-    "Python.11.2autoaliluokka.executor": "Run",
-    "Python.12.1chucknorris.executor": "Run",
-    "Python.12.2.openweather.executor": "Run",
-    "Python.13.1alkuluku.executor": "Run",
-    "Python.13.2taustapalvelu.executor": "Run",
-    "Python.2.1nimikysely.executor": "Run",
-    "Python.2.2circle.executor": "Run",
-    "Python.2.3rectangle.executor": "Run",
-    "Python.2.4kolmelukua.executor": "Run",
-    "Python.2.5keskiaika.executor": "Run",
-    "Python.2.6lukkokoodi.executor": "Run",
-    "Python.3.1kuha.executor": "Run",
-    "Python.3.2hyttiluokka.executor": "Run",
-    "Python.3.3hemoglobiini.executor": "Run",
-    "Python.3.4karkausvuosi.executor": "Run",
-    "Python.4.1while.executor": "Run",
-    "Python.4.2tuumat.executor": "Run",
-    "Python.4.3luvut.executor": "Run",
-    "Python.4.4arpapeli.executor": "Run",
-    "Python.4.5salasana.executor": "Run",
-    "Python.4.6pii.executor": "Run",
-    "Python.5.1arpakuutio.executor": "Run",
-    "Python.5.2viisisuurinta.executor": "Run",
-    "Python.5.3alkuluku.executor": "Run",
-    "Python.5.4kaupungit.executor": "Run",
-    "Python.6.1noppa.executor": "Run",
-    "Python.6.2nopantahkot.executor": "Run",
-    "Python.6.2toineennoppa.executor": "Run",
-    "Python.6.3gallonat.executor": "Run",
-    "Python.6.4kokonaisluku.executor": "Run",
-    "Python.6.5lista.executor": "Run",
-    "Python.6.6pizza.executor": "Run",
-    "Python.7.1vuodenaika.executor": "Run",
-    "Python.7.2nimet.executor": "Run",
-    "Python.7.3lentoasema.executor": "Run",
-    "Python.8.1icaokoodi.executor": "Run",
-    "Python.8.2maakoodi.executor": "Run",
-    "Python.8.3koordinaatit.executor": "Run",
-    "Python.9.1_auto.executor": "Run",
-    "Python.9.2_kiihdyta.executor": "Run",
-    "Python.9.3_kulje.executor": "Run",
-    "Python.9.4_autopeli.executor": "Run",
-    "Python.arpapeli.executor": "Run",
-    "Python.kirja.executor": "Run",
-    "Python.koira.executor": "Run",
-    "Python.luokkaesimerkki.executor": "Run",
-    "Python.osa1.executor": "Run",
-    "Python.osa3.1.executor": "Run",
-    "Python.osa3.2.executor": "Run",
-    "Python.osa3.3.executor": "Run",
-    "Python.osa3.executor": "Run",
-    "Python.periytyminen.executor": "Run",
-    "Python.rajapinta.executor": "Run",
-    "Python.student.executor": "Run",
-    "Python.testi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nealu/PycharmProjects/Ohjelmisto1/K2024/Ohjelmisto 2/HTML_CSS/Screenshotit",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.10.1hissi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2talo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3palo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.4autokilpailu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.1luokkahierarkia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.2autoaliluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.1chucknorris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.2.openweather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1alkuluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.2taustapalvelu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1nimikysely.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4kolmelukua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5keskiaika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6lukkokoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1kuha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2hyttiluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.3hemoglobiini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.4karkausvuosi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2tuumat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3luvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.4arpapeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.5salasana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.6pii.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1arpakuutio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2viisisuurinta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3alkuluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4kaupungit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1noppa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2nopantahkot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2toineennoppa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3gallonat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4kokonaisluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.6pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.1vuodenaika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2nimet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3lentoasema.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1icaokoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2maakoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3koordinaatit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.1_auto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2_kiihdyta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3_kulje.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4_autopeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arpapeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kirja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.koira.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luokkaesimerkki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.2ja3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.periytyminen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rajapinta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nealu/PycharmProjects/Ohjelmisto1/K2024/Ohjelmisto 2/HTML_CSS/Screenshotit&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\Screenshotit" />
@@ -203,7 +221,11 @@
       <workItem from="1712039299856" duration="6443000" />
       <workItem from="1712053680417" duration="5127000" />
       <workItem from="1712210734514" duration="2665000" />
-      <workItem from="1712220740126" duration="5083000" />
+      <workItem from="1712220740126" duration="5131000" />
+      <workItem from="1712295806576" duration="6425000" />
+      <workItem from="1712307752942" duration="10762000" />
+      <workItem from="1712641566578" duration="9707000" />
+      <workItem from="1712655330693" duration="4144000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -366,7 +388,14 @@
       <option name="presentableId" value="LOCAL−00023" />
       <updated>1712058996712</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL−00024" summary="Matematiikka osa3">
+      <option name="closed" value="true" />
+      <created>1712230514591</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1712230514591</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +434,8 @@
     <MESSAGE value="Webpage commit" />
     <MESSAGE value="Moduuli 12" />
     <MESSAGE value="Moduuli 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moduuli 13" />
+    <MESSAGE value="Matematiikka osa3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matematiikka osa3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -449,20 +479,30 @@
           <line>30</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Tuntiesimerkit/example.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module1/Assignment6/squareroot.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/K2024$2_3rectangle.coverage" NAME="2.3rectangle Coverage Results" MODIFIED="1705575324328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$10_1hissi.coverage" NAME="10.1hissi Coverage Results" MODIFIED="1711181235462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
-    <SUITE FILE_PATH="coverage/K2024$13_1alkuluku.coverage" NAME="13.1alkuluku Coverage Results" MODIFIED="1712210795045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli13" />
-    <SUITE FILE_PATH="coverage/K2024$3_4karkausvuosi.coverage" NAME="3.4karkausvuosi Coverage Results" MODIFIED="1706028913747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/K2024$osa3_2.coverage" NAME="osa3.2 Coverage Results" MODIFIED="1712228736484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3" />
+    <SUITE FILE_PATH="coverage/K2024$3_4karkausvuosi.coverage" NAME="3.4karkausvuosi Coverage Results" MODIFIED="1706028913747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
+    <SUITE FILE_PATH="coverage/K2024$13_1alkuluku.coverage" NAME="13.1alkuluku Coverage Results" MODIFIED="1712210795045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli13" />
     <SUITE FILE_PATH="coverage/K2024$12_1chucknorris.coverage" NAME="12.1chucknorris Coverage Results" MODIFIED="1711715675073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12" />
     <SUITE FILE_PATH="coverage/K2024$osa1.coverage" NAME="osa1 Coverage Results" MODIFIED="1711011372324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka" />
     <SUITE FILE_PATH="coverage/K2024$4_2tuumat.coverage" NAME="4.2tuumat Coverage Results" MODIFIED="1706182024193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
-    <SUITE FILE_PATH="coverage/K2024$10_3palo.coverage" NAME="10.3palo Coverage Results" MODIFIED="1711181365396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
     <SUITE FILE_PATH="coverage/K2024$periytyminen.coverage" NAME="periytyminen Coverage Results" MODIFIED="1711112157284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
+    <SUITE FILE_PATH="coverage/K2024$10_3palo.coverage" NAME="10.3palo Coverage Results" MODIFIED="1711181365396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
     <SUITE FILE_PATH="coverage/K2024$6_6pizza.coverage" NAME="6.6pizza Coverage Results" MODIFIED="1706697617174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$2_6lukkokoodi.coverage" NAME="2.6lukkokoodi Coverage Results" MODIFIED="1705575238257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$13_2taustapalvelu.coverage" NAME="13.2taustapalvelu Coverage Results" MODIFIED="1712058850584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli13" />
@@ -471,6 +511,7 @@
     <SUITE FILE_PATH="coverage/K2024$2_1nimikysely.coverage" NAME="2.1nimikysely Coverage Results" MODIFIED="1705574940843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$12_2_openweather.coverage" NAME="12.2.openweather Coverage Results" MODIFIED="1711717913411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12" />
     <SUITE FILE_PATH="coverage/K2024$6_2nopantahkot.coverage" NAME="6.2nopantahkot Coverage Results" MODIFIED="1706640819325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/K2024$osa3_2ja3.coverage" NAME="osa3.2ja3 Coverage Results" MODIFIED="1712642170230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3" />
     <SUITE FILE_PATH="coverage/K2024$6_5lista.coverage" NAME="6.5lista Coverage Results" MODIFIED="1706642246306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$student.coverage" NAME="student Coverage Results" MODIFIED="1711106057155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Tuntiesimerkit" />
     <SUITE FILE_PATH="coverage/K2024$10_4autokilpailu.coverage" NAME="10.4autokilpailu Coverage Results" MODIFIED="1711181178047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10" />
@@ -478,7 +519,7 @@
     <SUITE FILE_PATH="coverage/K2024$2_4kolmelukua.coverage" NAME="2.4kolmelukua Coverage Results" MODIFIED="1705575010594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/K2024$8_3koordinaatit.coverage" NAME="8.3koordinaatit Coverage Results" MODIFIED="1707296738837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/K2024$osa3_3.coverage" NAME="osa3.3 Coverage Results" MODIFIED="1712230443745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3" />
-    <SUITE FILE_PATH="coverage/K2024$5_3alkuluku.coverage" NAME="5.3alkuluku Coverage Results" MODIFIED="1712055478063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5" />
+    <SUITE FILE_PATH="coverage/K2024$5_3alkuluku.coverage" NAME="5.3alkuluku Coverage Results" MODIFIED="1712656445365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 1/Moduuli5" />
     <SUITE FILE_PATH="coverage/K2024$4_6pii.coverage" NAME="4.6pii Coverage Results" MODIFIED="1706182608082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/K2024$5_2viisisuurinta.coverage" NAME="5.2viisisuurinta Coverage Results" MODIFIED="1706640334789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/K2024$4_4arpapeli.coverage" NAME="4.4arpapeli Coverage Results" MODIFIED="1706182224877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
@@ -512,6 +553,6 @@
     <SUITE FILE_PATH="coverage/K2024$6_1noppa.coverage" NAME="6.1noppa Coverage Results" MODIFIED="1706641791873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/K2024$3_2hyttiluokka.coverage" NAME="3.2hyttiluokka Coverage Results" MODIFIED="1706181877879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/K2024$testi.coverage" NAME="testi Coverage Results" MODIFIED="1711717030932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12" />
-    <SUITE FILE_PATH="coverage/K2024$osa3_1.coverage" NAME="osa3.1 Coverage Results" MODIFIED="1712222729992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka" />
+    <SUITE FILE_PATH="coverage/K2024$osa3_1.coverage" NAME="osa3.1 Coverage Results" MODIFIED="1712295963760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ohjelmisto 2/Matematiikka/Osa3" />
   </component>
 </project>
