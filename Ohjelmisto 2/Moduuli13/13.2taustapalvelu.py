@@ -21,8 +21,8 @@ def airport_by_code(code):
     sql = f"SELECT name, municipality FROM airport WHERE ident='{code}'"
     cursor = connection.cursor()
     cursor.execute(sql)
-    result=cursor.fetchone()
-    if cursor.rowcount==1:
+    result = cursor.fetchone()
+    if cursor.rowcount == 1:
         return result
 
 @app.route('/airport/<code>')

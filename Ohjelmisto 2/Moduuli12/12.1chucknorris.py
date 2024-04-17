@@ -13,4 +13,4 @@ try:
         print(get_joke["value"])
 
 except requests.exceptions.RequestException as e:
-    print ("Vitsejä ei saatavilla")
+    print("Vitsejä ei saatavilla")

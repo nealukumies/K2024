@@ -13,7 +13,7 @@ request = "http://api.openweathermap.org/data/2.5/weather?q=" + location + "&APP
 try:
     response = requests.get(request)
     data = response.json()
-    if data.get("cod") == "404":
+    if data.get("code") == "404":
         print("Can´t find location.")
     elif response.status_code == 200:
         print(f"The weather type in {location} is: {data["weather"][0]["main"]}")

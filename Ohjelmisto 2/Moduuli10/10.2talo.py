@@ -42,8 +42,9 @@ class House:
 
     def ride_elevator(self, elevator_number, floor_number):
         print(f"Elevator number: {elevator_number}")
-        self.elevators[(elevator_number)-1].transfer_to_floor(floor_number)
+        self.elevators[elevator_number-1].transfer_to_floor(floor_number)
         print("------------")
+
 
 house1 = House(1, 10, 3)
 house1.ride_elevator(1, 8)
