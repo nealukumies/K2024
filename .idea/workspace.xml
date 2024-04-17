@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="JavaScript module 2">
+    <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä">
       <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.js" afterDir="false" />
@@ -244,7 +244,7 @@
       <workItem from="1713189233362" duration="942000" />
       <workItem from="1713246371606" duration="4355000" />
       <workItem from="1713257842860" duration="937000" />
-      <workItem from="1713342880210" duration="6977000" />
+      <workItem from="1713342880210" duration="7581000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -449,7 +449,14 @@
       <option name="presentableId" value="LOCAL−00029" />
       <updated>1712902385858</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL−00030" summary="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä">
+      <option name="closed" value="true" />
+      <created>1713350487816</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1713350487816</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +498,8 @@
     <MESSAGE value="Matematiikka osa3" />
     <MESSAGE value="JavaScript module 1" />
     <MESSAGE value="JavaScript module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript module 2" />
+    <MESSAGE value="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
