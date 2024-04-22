@@ -7,19 +7,21 @@
 //   <input type="submit" value="Search">
 // </form>
 // Test the form. The result should be a page full of JSON formatted data.
+//Develop the app further.
+// Add JavaScript that gets the value entered to the form and sends a request with
+// fetch to https://api.tvmaze.com/search/shows?q=${value_from_input}.
+// Print the search result to the console. (3p)
 
 'use strict';
 
 const searchForm = document.querySelector('#showSearch');
 searchForm.addEventListener('submit', async function(evt) {
-  // ... prevent the default action.
   evt.preventDefault();
-  // get value of input element
   const inputValue = document.querySelector('#query').value;
-  try {                                               // error handling: try/catch/finally
-    const response = await fetch(`https://api.tvmaze.com/search/shows?q=${inputValue}`);    // starting data download, fetch returns a promise which contains an object of type 'response'
-    const jsonData = await response.json();          // retrieving the data retrieved from the response object using the json() function
-    console.log(jsonData);    // log the result to the console
+  try {
+    const response = await fetch(`https://api.tvmaze.com/search/shows?q=${inputValue}`);
+    const jsonData = await response.json();
+    console.log(jsonData);
   } catch (error) {
     console.log(error.message);
   }

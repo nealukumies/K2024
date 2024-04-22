@@ -5,34 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16908db1-f4b1-464d-9933-ef5a6d5bc3db" name="Changes" comment="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä">
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/img/pic9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module3/t11/thumbnails/pic9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1/tvseries.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1/tvseries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment3/tvseries_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment3/tvseries_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment4/tvseries_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment4/tvseries_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment5/chucknorris.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment5/chucknorris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment6/chucknorris_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment6/chucknorris_6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10/10.2talo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli10/10.2talo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12/12.1chucknorris.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12/12.1chucknorris.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12/12.2weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli12/12.2weather.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli13/13.2taustapalvelu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/Moduuli13/13.2taustapalvelu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1/tvseries.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1and2/tvseries.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1/tvseries.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1and2/tvseries.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,85 +56,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.10.1hissi.executor": "Run",
-    "Python.10.2talo.executor": "Run",
-    "Python.10.3palo.executor": "Run",
-    "Python.10.4autokilpailu.executor": "Run",
-    "Python.11.1luokkahierarkia.executor": "Run",
-    "Python.11.2autoaliluokka.executor": "Run",
-    "Python.12.1chucknorris.executor": "Run",
-    "Python.12.2.openweather.executor": "Run",
-    "Python.13.1alkuluku.executor": "Run",
-    "Python.13.2taustapalvelu.executor": "Run",
-    "Python.2.1nimikysely.executor": "Run",
-    "Python.2.2circle.executor": "Run",
-    "Python.2.3rectangle.executor": "Run",
-    "Python.2.4kolmelukua.executor": "Run",
-    "Python.2.5keskiaika.executor": "Run",
-    "Python.2.6lukkokoodi.executor": "Run",
-    "Python.3.1kuha.executor": "Run",
-    "Python.3.2hyttiluokka.executor": "Run",
-    "Python.3.3hemoglobiini.executor": "Run",
-    "Python.3.4karkausvuosi.executor": "Run",
-    "Python.4.1while.executor": "Run",
-    "Python.4.2tuumat.executor": "Run",
-    "Python.4.3luvut.executor": "Run",
-    "Python.4.4arpapeli.executor": "Run",
-    "Python.4.5salasana.executor": "Run",
-    "Python.4.6pii.executor": "Run",
-    "Python.5.1arpakuutio.executor": "Run",
-    "Python.5.2viisisuurinta.executor": "Run",
-    "Python.5.3alkuluku.executor": "Run",
-    "Python.5.4kaupungit.executor": "Run",
-    "Python.6.1noppa.executor": "Run",
-    "Python.6.2nopantahkot.executor": "Run",
-    "Python.6.2toineennoppa.executor": "Run",
-    "Python.6.3gallonat.executor": "Run",
-    "Python.6.4kokonaisluku.executor": "Run",
-    "Python.6.5lista.executor": "Run",
-    "Python.6.6pizza.executor": "Run",
-    "Python.7.1vuodenaika.executor": "Run",
-    "Python.7.2nimet.executor": "Run",
-    "Python.7.3lentoasema.executor": "Run",
-    "Python.8.1icaokoodi.executor": "Run",
-    "Python.8.2maakoodi.executor": "Run",
-    "Python.8.3koordinaatit.executor": "Run",
-    "Python.9.1_auto.executor": "Run",
-    "Python.9.2_kiihdyta.executor": "Run",
-    "Python.9.3_kulje.executor": "Run",
-    "Python.9.4_autopeli.executor": "Run",
-    "Python.arpapeli.executor": "Run",
-    "Python.kirja.executor": "Run",
-    "Python.koira.executor": "Run",
-    "Python.luokkaesimerkki.executor": "Run",
-    "Python.osa1.executor": "Run",
-    "Python.osa3.1.executor": "Run",
-    "Python.osa3.2.executor": "Run",
-    "Python.osa3.2ja3.executor": "Run",
-    "Python.osa3.3.executor": "Run",
-    "Python.osa3.executor": "Run",
-    "Python.periytyminen.executor": "Run",
-    "Python.rajapinta.executor": "Run",
-    "Python.student.executor": "Run",
-    "Python.testi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/nealu/PycharmProjects/Ohjelmisto1/K2024/Ohjelmisto 2/JavaScript/Module3/t11",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.tvseries_3.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1hissi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2talo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3palo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.4autokilpailu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.1luokkahierarkia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.2autoaliluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.1chucknorris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.2.openweather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1alkuluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.2taustapalvelu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1nimikysely.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4kolmelukua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5keskiaika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6lukkokoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1kuha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2hyttiluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.3hemoglobiini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.4karkausvuosi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2tuumat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3luvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.4arpapeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.5salasana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.6pii.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1arpakuutio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2viisisuurinta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3alkuluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4kaupungit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1noppa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2nopantahkot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2toineennoppa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3gallonat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4kokonaisluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.6pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.1vuodenaika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2nimet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3lentoasema.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1icaokoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2maakoodi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3koordinaatit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.1_auto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2_kiihdyta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3_kulje.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4_autopeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arpapeli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kirja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.koira.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luokkaesimerkki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.2ja3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.osa3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.periytyminen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rajapinta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nealu/PycharmProjects/Ohjelmisto1/K2024/Ohjelmisto 2/JavaScript/Module3/t11&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\JavaScript\Module3\t11" />
@@ -166,6 +150,16 @@
       <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS" />
       <recent name="C:\Users\nealu\PycharmProjects\Ohjelmisto1\K2024\Ohjelmisto 2\HTML_CSS\IMG" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tvseries_3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/K2024/K2024/Ohjelmisto 2/JavaScript/Module4/Assignment3/tvseries_3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.tvseries_3.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -244,7 +238,11 @@
       <workItem from="1713189233362" duration="942000" />
       <workItem from="1713246371606" duration="4355000" />
       <workItem from="1713257842860" duration="937000" />
-      <workItem from="1713342880210" duration="7581000" />
+      <workItem from="1713342880210" duration="7953000" />
+      <workItem from="1713512387653" duration="2520000" />
+      <workItem from="1713705811159" duration="592000" />
+      <workItem from="1713707463184" duration="5924000" />
+      <workItem from="1713763710469" duration="2401000" />
     </task>
     <task id="LOCAL−00001" summary="moduuli3">
       <option name="closed" value="true" />
@@ -456,7 +454,14 @@
       <option name="presentableId" value="LOCAL−00030" />
       <updated>1713350487816</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL−00031" summary="JavaScript module 3 + vanhojen python tehtävien koodin pientä siistimistä">
+      <option name="closed" value="true" />
+      <created>1713350656400</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1713350656400</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,6 +562,11 @@
           <url>file://$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module2/Assignment_10/meeting.js</url>
           <line>50</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Ohjelmisto 2/JavaScript/Module4/Assignment1and2/tvseries.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
